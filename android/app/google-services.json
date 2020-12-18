@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413468659846",
+    "firebase_url": "https://training-63dd3.firebaseio.com",
+    "project_id": "training-63dd3",
+    "storage_bucket": "training-63dd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413468659846:android:7cf76f411987dbe4b18107",
+        "android_client_info": {
+          "package_name": "com.navigationproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413468659846-hovb2a3tmcrbg59028544j8vgn9flc7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmunf2CMHHyVVDvrMxpRjyFCa1AWscHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413468659846-hovb2a3tmcrbg59028544j8vgn9flc7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
